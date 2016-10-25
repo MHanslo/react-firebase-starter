@@ -1,6 +1,6 @@
 {
-  "name": "react-starter",
-  "version": "0.1.0",
+  "name": "react-redux-firebase-starter",
+  "version": "1.0.0",
   "private": true,
   "devDependencies": {
     "dotenv": "^2.0.0",
