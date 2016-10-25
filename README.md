@@ -1,5 +1,6 @@
 ## React / Redux Firebase Starter
-
+[![CircleCI](https://circleci.com/gh/MHanslo/react-firebase-starter.svg?style=shield)](https://circleci.com/gh/MHanslo/react-firebase-starter)
+![](https://david-dm.org/MHanslo/react-firebase-starter.svg)
 > [React / Redux Firebase Starter](https://github.com/MHanslo/react-firebase-starter)
 > is a React starter kit, built upon [Create React App](https://github.com/facebookincubator/create-react-app).
 > This project adds further tools such as [Redux](https://github.com/reactjs/redux)
