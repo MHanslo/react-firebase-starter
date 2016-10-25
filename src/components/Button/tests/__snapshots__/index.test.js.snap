@@ -1,0 +1,15 @@
+exports[`test should change classes based on props 1`] = `
+<div>
+  <button
+    className="button is-primary is-loading"
+    onClick={undefined} />
+</div>
+`;
+
+exports[`test should render without errors 1`] = `
+<div>
+  <button
+    className="button"
+    onClick={undefined} />
+</div>
+`;

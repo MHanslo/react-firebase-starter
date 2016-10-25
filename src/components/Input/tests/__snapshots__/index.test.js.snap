@@ -1,0 +1,46 @@
+exports[`test should render an error if hasError is in props 1`] = `
+<div>
+  <label
+    className="label" />
+  <div
+    style={
+      Object {
+        "marginBottom": "10px",
+      }
+    }>
+    <input
+      className="input is-danger"
+      onChange={undefined}
+      placeholder={undefined}
+      type="text"
+      value={undefined} />
+    <span
+      className="help is-danger">
+      error message
+    </span>
+  </div>
+</div>
+`;
+
+exports[`test should render without errors 1`] = `
+<div>
+  <label
+    className="label">
+    label
+  </label>
+  <div
+    style={
+      Object {
+        "marginBottom": "10px",
+      }
+    }>
+    <input
+      className="input"
+      onChange={undefined}
+      placeholder="placeholder"
+      type="text"
+      value={undefined} />
+    
+  </div>
+</div>
+`;

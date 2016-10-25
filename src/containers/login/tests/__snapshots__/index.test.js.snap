@@ -1,0 +1,75 @@
+exports[`test should render without errors 1`] = `
+<section
+  className="hero is-medium is-primary is-bold">
+  <div
+    className="hero-body">
+    <div
+      className="container">
+      <h1
+        className="title">
+        Sign In
+      </h1>
+      <div
+        className="box">
+        <form
+          onSubmit={[Function]}>
+          <div>
+            <label
+              className="label">
+              Email
+            </label>
+            <div
+              style={
+                Object {
+                  "marginBottom": "10px",
+                }
+              }>
+              <input
+                className="input"
+                onChange={[Function]}
+                placeholder="Email"
+                type="text"
+                value={undefined} />
+              
+            </div>
+          </div>
+          <div>
+            <label
+              className="label">
+              Password
+            </label>
+            <div
+              style={
+                Object {
+                  "marginBottom": "10px",
+                }
+              }>
+              <input
+                className="input"
+                onChange={[Function]}
+                placeholder="Password"
+                type="password"
+                value={undefined} />
+              
+            </div>
+          </div>
+          <div
+            className="control">
+            <div>
+              <button
+                className="button is-primary"
+                onClick={undefined}>
+                Sign in
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+      <p
+        className="has-text-centered">
+        Dont have an account? 
+      </p>
+    </div>
+  </div>
+</section>
+`;
