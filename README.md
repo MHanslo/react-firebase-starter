@@ -21,7 +21,7 @@ login and sign up service handled by Firebase.
 
 ## Configuring Firebase
 To get Firebase working, make a copy of `.env.example` in the root directory,
-rename it to `.env` and add you Firebase credentials there. The different
+rename it to `.env` and add your Firebase credentials there. The different
 Firebase services can be configured and exported in `src/firebase/config.js`.
 
 ---
